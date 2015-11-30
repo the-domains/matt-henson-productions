@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Matt Henson Productions ]]></title>
         <description><![CDATA[Matt Henson Productions ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/matt-henson-productions/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 02:19:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 02:19:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/matt-henson-productions/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The Message </p>]]></description>
-            <link>undefined55282efd-9a5f-4681-b344-750174fc3546/index.html</link>
+            <link>https://thegrid.ai/matt-henson-productions/55282efd-9a5f-4681-b344-750174fc3546/index.html</link>
             <guid isPermaLink="false">55282efd-9a5f-4681-b344-750174fc3546</guid>
-            <pubDate>Mon, 30 Nov 2015 02:19:31 GMT</pubDate>
+            <pubDate>Mon, 30 Nov 2015 02:19:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
