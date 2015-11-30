@@ -1,7 +1,7 @@
 name: 'Matt Henson Productions '
 favicon: null
-layout_spectrum: 0.9337321023922414
-typography_spectrum: 0.9417888466268778
+layout_spectrum: 0.88283
+typography_spectrum: 0.2137
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#ffffff'
+    - '#de7a1c'
+    - '#396f8f'
+    - '#b4c6cf'
+    - '#6d8ea1'
   brandStrength: 0.5426532651763409
-  lightness: 0.08731403853744268
+  lightness: 0.375
   saturation: 0.3025708021596074
-  rhythmicContrast: 0.4331559995189309
+  rhythmicContrast: 0.75
 purpose: []
